@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Nanum+Pen+Script&display=swap');
+
+.App {
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+h1 {
+  text-align: center;
+}
